@@ -34,8 +34,8 @@ Este projeto configura um ambiente de desenvolvimento utilizando Docker Compose 
 
 1. **Clone o repositório**:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone https://github.com/sjsistemasltda/bank_iac
+   cd bank_iac
 
 2. **De permissão necessária para o script de criação de queue**:
     ```sh
